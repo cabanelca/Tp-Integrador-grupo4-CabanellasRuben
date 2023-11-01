@@ -1,0 +1,24 @@
+.brillo-imagen{
+    filter:brightness(50%)
+}
+
+.tamaño-tarjeta {
+    width: 20rem;
+    height: 36em;
+}
+
+.tamaño-tarjeta-descuento {
+    width: 20rem;
+    height: 14em;
+}
+
+.link-con-punto{
+    text-decoration-style:dotted;
+    color: black;
+}
+
+.pie-de-pagina{
+    background-image: linear-gradient(to right top, #1C3846, #1D465C,#1D5271);
+    
+}
+
